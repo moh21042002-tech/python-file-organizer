@@ -67,5 +67,10 @@ if __name__ == "__main__":
     # Specify the target folder path to organize
     path_to_organize = input("Enter the path of the directory to organize: ")
     organize_directory(path_to_organize)
-git clone [https://github.com/moh21042002-tech/python-file-organizer.git](https://github.com/moh21042002-tech/python-file-organizer.git)
+---
+
+### 📥 Usage:
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/moh21042002-tech/python-file-organizer.git](https://github.com/moh21042002-tech/python-file-organizer.git)
 python organizer.py
